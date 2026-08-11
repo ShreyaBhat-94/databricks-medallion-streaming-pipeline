@@ -11,6 +11,7 @@ The curated Gold-layer datasets provide a governed data foundation that can be c
 ---
 
 ## Architecture
+![Medallion Architecture](architecture/medallion_architecture.png)
 
 ```text
                  Retail Sales Data
